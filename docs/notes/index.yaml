@@ -4,3 +4,5 @@ description: |
 links:
   - title: Android
     href: android.md
+  - title: Сканеры уязвимостей
+    href: scanners.md

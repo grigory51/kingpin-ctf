@@ -3,3 +3,5 @@ href: index.yaml
 items:
   - name: Android
     href: android.md
+  - name: Сканеры уязвимостей
+    href: scanners.md
