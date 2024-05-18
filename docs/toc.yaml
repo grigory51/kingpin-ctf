@@ -1,13 +1,8 @@
-title: Documentation Project Template
+title: Шкворень-тим
 href: index.yaml
 items: 
-  - name: About
-    href: about.md
-  - name: Additional page 
-    href: page.md
-  - name: Another page 
-    href: anotherpage.md
-  - name: Sub-Section 
+  - name: Заметки
     include:
-      path: sub-section/toc.yaml
-      mode: link
+      path: notes/toc.yaml
+  - name: Ачивки
+    href: achivements.md
