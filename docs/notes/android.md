@@ -4,7 +4,9 @@
 
 ### Декомпиляция
 [http://www.javadecompilers.com/apk](http://www.javadecompilers.com/apk)
+
 [https://github.com/aktsk/apkutil](https://github.com/aktsk/apkutil)
+
 [https://apktool.org/](https://apktool.org/)
 
 ## React Native
