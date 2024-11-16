@@ -5,3 +5,5 @@ items:
     href: android.md
   - name: Сканеры уязвимостей
     href: scanners.md
+  - name: XSS
+    href: xss.md
